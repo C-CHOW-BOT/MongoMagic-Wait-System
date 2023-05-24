@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f1de4ab76f9f4d7583b230fb74dd8e7f","collectionName":"temporders","type":"collection"}
